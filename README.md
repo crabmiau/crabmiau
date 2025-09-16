@@ -6,7 +6,7 @@ currently working on:
 - 🌀 **xenith** – multipurpose hypixel macro, closed source for now
 - 🌀 **synced.party** - minecraft lua executor, also closed source but WILL be open source sometime later
 
-languages i use: `kotlin`, `java`, `python`, `typescript`  
+languages i use: `kotlin`, `java`, `python`, `typescript`, `c++`
 always down to explore new tech or break something to learn how it ticks.
 
 ---
