@@ -15,7 +15,7 @@ always down to explore new tech or break something to learn how it ticks.
 
 want to chat about stuff?
 
-📧 `veyzyn@gmail.com`  
+📧 `miau@femboy.cx`  
 💬 discord: `veyzyn`
 
 ---
